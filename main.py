@@ -10,7 +10,7 @@ from models import VideoClassification
 # Configuration constants
 # Test settings
 TEST_MODE = True        # Switch to False for full run
-TEST_ROWS = 10000         # Number of rows when testing
+TEST_ROWS = 1000000         # Number of rows when testing
 
 # Processing settings
 BATCH_SIZE = 300          # Process 100 videos per batch
